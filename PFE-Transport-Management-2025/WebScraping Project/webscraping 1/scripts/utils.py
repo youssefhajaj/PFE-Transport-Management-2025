@@ -10,7 +10,7 @@ from email.mime.text import MIMEText
 
 def send_email_with_attachment(to_emails, subject, body, attachment_path):
     from_email = "youssef.hajaj111@gmail.com"  # Replace with your email
-    password = "idaw mnzd dwvu oypc"  # Replace with your email password
+    password = "xxxx xxxx xxxx"  # Replace with your email password
 
     msg = MIMEMultipart()
     msg['From'] = from_email
