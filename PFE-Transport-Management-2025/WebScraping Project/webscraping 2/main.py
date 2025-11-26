@@ -22,8 +22,8 @@ csv_lock = threading.Lock()
 
 # Global email variables
 EMAIL_USER = "youssef.hajaj111@gmail.com"
-EMAIL_PASS = "aljn ziwo gnfd vtsw"
-EMAIL_RECEIVER = "contactkounhany@gmail.com"
+EMAIL_PASS = "xxxx xxxx xxxx xxxx"
+EMAIL_RECEIVER = "test@gmail.com"
 #EMAIL_RECEIVER = "youssef.hajaj111@gmail.com"
 
 # Global data
